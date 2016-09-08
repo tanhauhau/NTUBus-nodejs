@@ -1,0 +1,32 @@
+{
+  "name": "ntubus",
+  "version": "1.0.0",
+  "description": "NTU Bus API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "tanhauhau/NTUBus-nodejs",
+  "author": {
+    "name": "Tan Li Hau",
+    "email": "lhtan93@gmail.com",
+    "url": "lihautan.me"
+  },
+  "keywords": [
+    "ntu",
+    "bus",
+    "api",
+    "ntu-bus",
+    "route",
+    "time"
+  ],
+  "author": "Tan Li Hau <lhtan93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.foreach": "^4.5.0",
+    "lodash.map": "^4.6.0",
+    "lodash.partial": "^4.2.1",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
